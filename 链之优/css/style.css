@@ -557,7 +557,7 @@ a
 #wrapper .content4
 {
     width:1280px;
-    height:1090px;
+    height:400px;
     margin-top: 10px;
 }
 #wrapper .content4 .top
@@ -753,10 +753,17 @@ a
 }
 #wrapper .content4 .bottom .right
 {
-    width:427px;
-    height:521px;
+    width:258px;
+    height:258px;
     float:right;
-    background-image: url(../images/task_1_7_13_04.gif);
+    background-image: url(../images/task_1_7_30.jpg);
+}
+
+#wrapper .content4 .bottom .right p
+{
+    margin-left: 0px;
+    margin-top: 270px;
+    line-height: 30px;
 }
 #wrapper .content5
 {
